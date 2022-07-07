@@ -1,2 +1,5 @@
+<? php 
 echo "This is my first demo php progarm on gitup";
+echo " welcome to demo php progarm on gitup";
+
 ?>
